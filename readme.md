@@ -4,4 +4,39 @@ A **Rate Limiter** is an infrastructure component that controls the number of re
 
 ---
 
+## Tech Stack
+
+### Backend:
+
+- Python
+- Fastapi
+
+### Frontend
+
+- React
+
+### Database
+
+- Postgres
+- MongoDB
+
+> Tech stack is subject to change as per requirements.
+
+---
+
+## File Structure
+
+```
+.
+├── backend
+│   ├── app
+│   │   └── main.py
+│   ├── requirements.txt
+│   └── tests
+│   └── .env
+├── frontend
+└── readme.md
+
+```
+
 **Creating, Learning, Evolving**
